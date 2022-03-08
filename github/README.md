@@ -14,7 +14,7 @@
 # 과제 1
 
 ## git 영상  
-<iframe width="788" height="443" src="https://www.youtube.com/embed/4IqwFImCW-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/oxPrKWcNmcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <br>
