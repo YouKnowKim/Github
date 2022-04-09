@@ -10,7 +10,7 @@
 
 
 
-[자바 프로젝트 코드].(https://github.com/YouKnowKim/java/tree/master/homework/javaproject)
+# <a href="https://github.com/YouKnowKim/java/tree/master/homework/javaproject">자바 프로젝트 코드</a>
 
 
 <br>
