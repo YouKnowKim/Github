@@ -12,6 +12,9 @@
 
 # <a href="https://github.com/YouKnowKim/java/tree/master/homework/javaproject">자바 프로젝트 코드</a>
 
+<img src="uml.png"></img>
+<img src="diagram.png"></img>
+
 
 <br>
 
