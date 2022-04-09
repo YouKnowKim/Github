@@ -6,11 +6,11 @@
 # 자바 프로젝트
 
 ## 자바 프로젝트 시연 영상  
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/oxPrKWcNmcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KGmVzywI4cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-# [자바 프로젝트 코드].(https://github.com/YouKnowKim/java/tree/master/homework/javaproject)
+[자바 프로젝트 코드].(https://github.com/YouKnowKim/java/tree/master/homework/javaproject)
 
 
 <br>
