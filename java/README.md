@@ -12,7 +12,9 @@
 
 # <a href="https://github.com/YouKnowKim/java/tree/master/homework/javaproject">자바 프로젝트 코드</a>
 
+# 클래스 다이어그램
 <img src="uml.png"></img>
+# 유즈케이스 다이어그램
 <img src="diagram.png"></img>
 
 
